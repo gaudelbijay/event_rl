@@ -11,5 +11,8 @@ local_buffer/
 logs/
 temp/
 e2d/outputs
-local_buffer/event_nav.sif 
+local_buffer/event_nav.sif
 /logging
+
+# CMake build output (generated, not source)
+jackal_helper/plugins/build/
